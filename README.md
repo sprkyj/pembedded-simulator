@@ -9,6 +9,10 @@ You do not need a physical embedded system. There is a provided link to access a
 You can play a very simple version of simon-says. 
 
 (Simon will ask to move left,right, or stay still. It is up to you to make the correct decision.)
+
+
+Credit to: Cameron MacLeod
+@RealPython
   
 
   
